@@ -1,0 +1,13 @@
+package com.project.capstone.feature.cvGenerator.data
+
+data class PersonalData(
+    val fullName: String = "",
+    val phone: String = "",
+    val email: String = "",
+    val linkedin:  String = "",
+    val address: String = "",
+    val summary: String = "",
+)
+
+
+
